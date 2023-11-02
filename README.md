@@ -11,7 +11,7 @@ Search for posts
 
 Main components:
 
-Express.js: a web framework for developing dynamic web applications
+-Express.js: a web framework for developing dynamic web applications
 MongoDB: an open-source NoSQL database
 Mongoose: an ORM library for MongoDB
 bcrypt: a password-hashing library
